@@ -93,7 +93,7 @@ Reihe Star Wars
 1. Star Wars: Episode III - Die Rache der Sith
 1. Star Wars: Episode IV  - Eine neue Hoffnung
 1. Star Wars: Episode V   - Das Imperium schlägt zurück
-1. Star Wars: Episode VI  - Die Rückkehr der Jedi-Ritter 
+1. Star Wars: Episode VI  - Die Rückkehr der Jedi-Ritter
 
 Zeichentrick und Animation (Lars)
 ---------------------------------
@@ -122,7 +122,7 @@ Endzeitfilme (Sven)
 Reihe Terminator
 ----------------
 
-1. Terminator  
+1. Terminator
 1. Terminator 2 - Tag der Abrechnung
 1. Terminator 3 - Rebellion der Maschinen
 1. Terminator: Die Erlösung
@@ -157,7 +157,7 @@ Drama (Lars)
 1. Die letzten Glühwürmchen (Lars)  856-
 1. 12 Angry Men (Lars)  101097
 1. Rain Man (Sascha) ''← gesehen am 21.07.2012''  8888
-1. Die fabelhafte Welt der Amelie (Sven) ''← gesehen am 03.07.2012''  7910- 
+1. Die fabelhafte Welt der Amelie (Sven) ''← gesehen am 03.07.2012''  7910-
 
 ''Begin von Saschas Praktikum''
 
@@ -285,10 +285,10 @@ Agentenfilme (Michi)
 Thriller (Sascha; KW 19+20, 2013)
 ---------------------------------
 
-1. [[http://imdb.com/title/tt0137523/ | Fight Club]] (Sascha) ''← gesehen am 08.05.2013''  10101010
-1. [[http://imdb.com/title/tt0054215/ | Psycho]] (Lars) ''← gesehen am 08.05.2013''  8888
-1. [[http://imdb.com/title/tt0099685/ | Goodfellas]] (Sven) ''← gesehen am 13.05.2013''  8810-
-1. [[http://www.imdb.com/title/tt0780536/ | Brügge sehen und sterben]] (Michi) ''← gesehen am 13.05.2013''  8888
+1. [Fight Club](http://imdb.com/title/tt0137523/) (Sascha) ''← gesehen am 08.05.2013''  10101010
+1. [Psycho](http://imdb.com/title/tt0054215/) (Lars) ''← gesehen am 08.05.2013''  8888
+1. [Goodfellas](http://imdb.com/title/tt0099685/) (Sven) ''← gesehen am 13.05.2013''  8810-
+1. [Brügge sehen und sterben](http://www.imdb.com/title/tt0780536/) (Michi) ''← gesehen am 13.05.2013''  8888
 
 `*`-Noir (Lars; KW 21+22, 2013)
 -------------------------------
@@ -333,10 +333,10 @@ Filme, spielend in Amerika vor 1960 (Lars; KW 44 – 46)
 Filme, Filme mit und über das Meer (Sven; KW 47 – 48)
 -----------------------------------------------------
 
-1. [[http://www.imdb.com/title/tt1613750/ | Kon-Tiki (2012)]] (Sven)
-1. [[http://www.imdb.com/title/tt0096754/ | The Abyss]] (Sascha)
-1. [[http://www.imdb.com/title/tt0099810/ | The Hunt for Red October]] (Michael)
-1. [[http://www.imdb.com/title/tt1440129/ | Battleship]] (Lars)
+1. [Kon-Tiki (2012)](http://www.imdb.com/title/tt1613750/) (Sven)
+1. [The Abyss](http://www.imdb.com/title/tt0096754/) (Sascha)
+1. [The Hunt for Red October](http://www.imdb.com/title/tt0099810/) (Michael)
+1. [Battleship](http://www.imdb.com/title/tt1440129/) (Lars)
 
 Filme zwischen Antike und Mittelalter (Michael; KW 49 - 50)
 -----------------------------------------------------------
@@ -375,7 +375,7 @@ Independent (Michael; KW 7+8)
 
 1. Death Proof (Sascha)
 1. Einer flog über das Kuckucksnest
-1. [[ http://www.imdb.com/title/tt0120601/ | Being John Malkovich]] (Michael)
+1. [Being John Malkovich](http://www.imdb.com/title/tt0120601/) (Michael)
 1. [Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb](http://www.imdb.com/title/tt0057012/) (Lars)
 
 Supernatural Horror (Sascha)
@@ -384,7 +384,7 @@ Supernatural Horror (Sascha)
 1. The Grunge (Sascha)
 1. Dawn of the Dead (2004; Sven)
 1. Drag me to Hell (Michi)
-1. [[ http://www.imdb.com/title/tt0118971/ | The Devil's Advocate ]] (Lars)
+1. [The Devil's Advocate](http://www.imdb.com/title/tt0118971/) (Lars)
 
 Künstliche Intelligenz (Lars)
 -----------------------------
@@ -421,7 +421,7 @@ Historical Drama (Sascha)
 Science in Fiction (Lars)
 -------------------------
 
-1. [[ http://imdb.com/title/tt0062622/ | 2001: A Space Odyssey ]] (Lars)
+1. [2001: A Space Odyssey](http://imdb.com/title/tt0062622/) (Lars)
 1. Gravity (Sven)
 1. Serenity (Sascha)
 1. Stargate (Michi)
@@ -506,7 +506,7 @@ Bei Simon:
  - Die Unfassbaren *(Michael)*
 
 ### 25.09.2015
- 
+
  - Basic Instinct *(Sven H.)*
 
 ### 01.10.2015
@@ -518,7 +518,7 @@ Bei Simon:
  - Dancer in the Dark *(Andrea)*
  - The royal Tannenbaums *(Lars)*
 
-### 21.10.2015 
+### 21.10.2015
 
  - Mad Max Fury Road *(Lars)*
  - Hot Shots *(Sven S.)*
@@ -533,8 +533,8 @@ Bei Simon:
 - Ant Man (Seven7H)
 - Cowboy & Alien (Simon³)
 
-... 
+...
 
-### 6. Mai 2016 
+### 6. Mai 2016
 
-- The Big Lebowski  
+- The Big Lebowski

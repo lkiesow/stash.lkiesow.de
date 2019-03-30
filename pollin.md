@@ -1,12 +1,8 @@
 Pollin
 ======
 
-- [Fahrrad-Schlauch FILMER 45.286, 28"
-  ](https://www.pollin.de/p/fahrrad-schlauch-filmer-45-286-28-850982)
-- [Fahrrad-Bremsschuhe FILMER 42.154, V-Brakes
-  ](https://www.pollin.de/p/fahrrad-bremsschuhe-filmer-42-154-v-brakes-851031)
-- [Fahrrad-Sattelstütze, gefedert
-  ](https://www.pollin.de/p/fahrrad-sattelstuetze-gefedert-863096)
+- [Multifunktions-Spray WD-40
+  ](https://www.pollin.de/p/multifunktions-spray-wd-40-510148)
 - [Garderobenhaken, Edelstahl, 52 mm
   ](https://www.pollin.de/p/garderobenhaken-edelstahl-52-mm-691298)
 - [Fassung für LED- oder Halogenlampen, G4/G5,3/GY6,35

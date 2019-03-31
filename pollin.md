@@ -1,6 +1,8 @@
 Pollin
 ======
 
+- [Steckdosenleiste, 3-fach
+  ](https://www.pollin.de/p/steckdosenleiste-3-fach-451210)
 - [Multifunktions-Spray WD-40
   ](https://www.pollin.de/p/multifunktions-spray-wd-40-510148)
 - [Garderobenhaken, Edelstahl, 52 mm

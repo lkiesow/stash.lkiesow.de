@@ -8,6 +8,7 @@ Stuff
     - [Kanutouren](kanutouren.md)
 - Kaufen, kaufen, kaufen
     - [DX](dx.md)
+    - [Alternate](alternate.md)
     - [Pollin](pollin.md)
     - [Thomann](thomann.md)
     - [Reichelt](reichelt.md)

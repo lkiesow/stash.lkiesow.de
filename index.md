@@ -18,3 +18,5 @@ Stuff
 - Server
     - [LVM](lvm.md)
     - [TLS checks](tls-check.md)
+- Development
+    - [GitHub Apps](github-applications.md)

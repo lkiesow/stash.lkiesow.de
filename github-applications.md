@@ -75,9 +75,13 @@ Dependencies
 Project Management
 ------------------
 
-### [Auto Badge](https://github.com/marketplace/auto-badge)
+### ~~[Auto Badge](https://github.com/marketplace/auto-badge)~~
 
 *automatically label your pull requests based on commit title*
+
+- seems to just pick up what is already in the title
+- basically no documentation
+
 
 ### [ZenHub](https://github.com/marketplace/zenhub)
 

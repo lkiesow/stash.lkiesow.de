@@ -3,6 +3,7 @@ GitHub Applications
 
 GitHub extensions to test.
 
+---
 Code Analysis
 -------------
 
@@ -23,6 +24,7 @@ Code Analysis
 *lints code on all your commits*
 
 
+---
 Security Scans
 --------------
 
@@ -48,6 +50,7 @@ Security Scans
 sensitive credentials & secrets*
 
 
+---
 Dependencies
 ------------
 
@@ -64,6 +67,7 @@ Dependencies
 *keep your dependencies up to date*
 
 
+---
 Project Management
 ------------------
 
@@ -76,6 +80,7 @@ Project Management
 *project management tool that integrates natively within GitHub’s user interface*
 
 
+---
 Other
 -----
 

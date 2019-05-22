@@ -4,6 +4,7 @@ GitHub Applications
 GitHub extensions to test.
 
 ---
+
 Code Analysis
 -------------
 
@@ -15,16 +16,17 @@ Code Analysis
 
 *automated code analysis/quality tool*
 
-## [PEP 8 Speaks](https://github.com/marketplace/pep-8-speaks)
+### [PEP 8 Speaks](https://github.com/marketplace/pep-8-speaks)
 
 *detect Python code style issues on new Pull Requests*
 
-## [AnyLint](https://github.com/marketplace/anylint)
+### [AnyLint](https://github.com/marketplace/anylint)
 
 *lints code on all your commits*
 
 
 ---
+
 Security Scans
 --------------
 
@@ -51,6 +53,7 @@ sensitive credentials & secrets*
 
 
 ---
+
 Dependencies
 ------------
 
@@ -68,6 +71,7 @@ Dependencies
 
 
 ---
+
 Project Management
 ------------------
 
@@ -81,6 +85,7 @@ Project Management
 
 
 ---
+
 Other
 -----
 

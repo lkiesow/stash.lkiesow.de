@@ -37,6 +37,7 @@ Beste Zeit: Frühjahr, Herbst (Sommer: voll)
 ----
 
 - [Paddeln im Land der Tausend Seen, 14 Tourenvorschläge](http://2015.mecklenburgische-seenplatte.de/seenplatte_erleben/faszination_wasser/paddeln/paddeltouren.html)
+- [Paddeln im Land der Tausend Seen, 14 Tourenvorschläge (pdf)](http://www.ferienhaus-mirow-249.de/images/Paddelfuehrer_Mecklenburgische_Seenplatte.pdf)
 
 Weitere Touren
 

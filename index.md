@@ -6,6 +6,7 @@ Stuff
     - [Filmabend 2](filmabend/two.md)
 - Freizeit
     - [Kanutouren](kanutouren.md)
+    - [Berlin](berlin.md)
 - Kaufen, kaufen, kaufen
     - [DX](dx.md)
     - [Alternate](alternate.md)

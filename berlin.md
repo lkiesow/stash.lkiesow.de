@@ -19,3 +19,9 @@ Sinnvolle Strecken:
   ](https://www.bahn.de/regional/view/mdb/pv/deutschland_erleben/berlin_brandenburg/streckenfahrplaene/2019/mdb_282830_re3_nord.pdf)
 - [RE66 (Berlin → Tantow → Szczecin Gumience)
   ](https://www.bahn.de/regional/view/mdb/pv/deutschland_erleben/berlin_brandenburg/streckenfahrplaene/2019/mdb_282839_re66.pdf)
+
+
+Flüsse/Gebiete
+--------------
+
+- [Havel](https://www.openstreetmap.org/relation/390306)

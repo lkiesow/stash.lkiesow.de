@@ -25,3 +25,4 @@ Flüsse/Gebiete
 --------------
 
 - [Havel](https://www.openstreetmap.org/relation/390306)
+- [Kanutour bei Fürstenberg](https://www.nordlicht-kanu.de/tour-4-fuerstenberg-lychen-13-km-1-2-tage/)

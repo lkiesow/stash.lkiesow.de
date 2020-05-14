@@ -10,3 +10,4 @@ Mail Server
 
 - [SSL Tools](https://ssl-tools.net/mailservers)
 - [CheckTLS.com](http://www.checktls.com/perl/TestReceiver.pl#)
+- [G Suite Toolbox Check MX](https://toolbox.googleapps.com/apps/checkmx/check)

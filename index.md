@@ -7,6 +7,7 @@ Stuff
 - Freizeit
     - [Kanutouren](kanutouren.md)
     - [Berlin](berlin.md)
+    - [Kanu](kanu.md)
 - Kaufen, kaufen, kaufen
     - [DX](dx.md)
     - [Alternate](alternate.md)

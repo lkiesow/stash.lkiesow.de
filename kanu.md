@@ -17,7 +17,6 @@ Kajak:
   ](https://www.chris-kayaks.de/shop/kayaks/the-bay-st/#cc-m-product-15967686322)
 - [Nortik fold 4.2 – 1.599,00 €
   ](https://www.faltboot-onlineshop.de/fold-42_1)
-- 
 
 Info:
 
@@ -27,3 +26,7 @@ Zubehör:
 
 - [Kajakpaddel Carbon X500 zweiteilig zerlegbar und verstellbar 210–220 cm – 89,99€
   ](https://www.decathlon.de/p/kajakpaddel-carbon-x500-zweiteilig-zerlegbar-und-verstellbar-210-220-cm/_/R-p-170906?mc=8403375)
+- [NRS M' S HIGH TIDE JACKET Männer - Paddeljacke –  94,47 €
+  ](https://www.globetrotter.de/nrs-paddeljacke-maenner-m-s-high-tide-jacket-olive-1224653/)
+- [Palm VECTOR JACKET Männer - Paddeljacke – 94,95 €
+  ](https://www.globetrotter.de/palm-paddeljacke-maenner-vector-jacket-red-1022313/)

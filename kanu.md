@@ -3,13 +3,13 @@ Kanu
 
 Kajak:
 
-- [ITIWIT X500 – 649,99€
+- [` 649,99 EUR` – ITIWIT X500
   ](https://www.decathlon.de/p/kajak-aufblasbar-drop-stitch-hochdruck-x500-1-sitzer/_/R-p-148573?mc=8403087)
-- [Advanced Elements Advanced Frame  – 657,17 €
+- [` 657,17 EUR` – Advanced Elements Advanced Frame
   ](https://www.arts-outdoors.de/advanced-elements-advanced-frame-tm-kajak-luftboot-red-grey?bt_product_attribute=78922&gclid=Cj0KCQjw6ZOIBhDdARIsAMf8YyGssE2BqFdzSxU_9KMRxTeBiD6kN6RlCyuvPJSH4bzFPuvF0VlPG7gaAssiEALw_wcB#/631-farbe-orange)
-- [Advanced Elements Frame Elite – 919 €
+- [` 919,00 EUR` – Advanced Elements Frame Elite
   ](https://www.arts-outdoors.de/advanced-elements-frame-tm-elite-kajak-luftboot-red#/634-farbe-rot)
-- [Advanced Elements Advanced Frame Expedition Elite – 1 137,86 €
+- [`1137,86 EUR` – Advanced Elements Advanced Frame Expedition Elite
   ](https://www.arts-outdoors.de/advanced-elements-advanced-frame-expedition-tm-elite-kajak-luftboot-ocean-blue#/638-farbe-blau)
 - [Advanced Elements AirFusion EVO
   ](https://www.arts-outdoors.de/advanced-elements-airfusion-evo-1er-kajak-luftboot-orange#/631-farbe-orange)

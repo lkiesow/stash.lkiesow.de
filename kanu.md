@@ -30,3 +30,5 @@ Zubehör:
   ](https://www.globetrotter.de/nrs-paddeljacke-maenner-m-s-high-tide-jacket-olive-1224653/)
 - [Palm VECTOR JACKET Männer - Paddeljacke – 94,95 €
   ](https://www.globetrotter.de/palm-paddeljacke-maenner-vector-jacket-red-1022313/)
+- [Auftriebsweste 50N mit Taschen – 44,99€
+  ](https://www.decathlon.de/p/auftriebsweste-50n-mit-taschen-kanu-kajak/_/R-p-170892?mc=8501297&c=ORANGE)

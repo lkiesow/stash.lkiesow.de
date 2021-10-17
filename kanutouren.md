@@ -58,3 +58,8 @@ Teilstrecken?
   ](https://www.canoeguide.net/kanutouren-in-deutschland/kanutouren-mecklenburg-vorpommern/488-kanutour-tollense-peene)
 - [Kanutour Mecklenburger Seenplatte (80km)
   ](https://www.canoeguide.net/kanutouren-in-deutschland/kanutouren-mecklenburg-vorpommern/406-de-02-002-mecklenburgische-seenplatte-tour-1)
+
+Literatur
+
+- [Die schönsten Kanutouren in Nordrhein-Westfalen
+  ](https://www.kanu-verlag.de/_dbe,products,103100.xhtml)
